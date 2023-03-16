@@ -6,6 +6,7 @@ Mini-football metric and detection system
 ## Contributors:
 
 - [@klpkw](https://github.com/klpkw)
+- [@AmZakirov](https://github.com/AmZakirov)
 
 
 ## Main ideas
