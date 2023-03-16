@@ -13,3 +13,11 @@ Mini-football metric and detection system
 
 - Player detection using YOLOv7 with train on humans and balls
 - Player traking using [ByteTrack](https://github.com/ifzhang/ByteTrack)
+
+## Work pipeline
+
+1. Create function for object detection
+2. Create function foir tracking
+3. Improve detection
+4. Create tracking and transitions
+5. Add features for project
