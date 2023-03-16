@@ -21,3 +21,5 @@ Mini-football metric and detection system
 3. Improve detection
 4. Create tracking and transitions
 5. Add features for project
+
+In file video.avi sample video for project
